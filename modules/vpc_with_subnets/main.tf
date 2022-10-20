@@ -100,4 +100,3 @@ resource "aws_vpc_endpoint" "this" {
     Name = var.s3_endpoint_name
   }
 }
-
