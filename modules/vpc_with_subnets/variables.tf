@@ -57,5 +57,3 @@ variable "s3_endpoint_name" {
   type    = string
   default = "S3 endpoint name"
 }
-
-
